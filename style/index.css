@@ -1,0 +1,587 @@
+ button:hover {
+    background-color: #FBAB7E;
+    background-image: linear-gradient(62deg, #6110ac 0%, #68f768 100%);
+}
+.unsubscribe:hover{
+    background-color: #fd0404ea;
+    background-image: linear-gradient(62deg, #228d3400 0%, #01e3f33f 100%);
+}
+
+.header {
+    background-image: url("Banner-Image.png");
+    border-radius: 16px;
+    background-repeat: no-repeat;
+    font-family: 'Merriweather';
+    text-align: center;
+    color: #FFF;
+    padding: 110px;
+    border-radius: 16px;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+    max-width: 1320px;
+    max-height: 600px;
+    margin: 0px 120px;
+    margin: 0px auto;
+    width: 82.5%;
+    height: 8.18%;
+
+}
+
+.hi {
+    justify-items: center;
+    padding-top: 40px;
+
+}
+
+.wishes-speech {
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 0%;
+}
+
+.arrengment {
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 14%;
+}
+
+.deals {
+    margin-bottom: 10px;
+    margin-left: auto;
+    text-align: center;
+    font-family: 'Inter';
+}
+
+.offer {
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 93px;
+}
+
+.complement {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 16px;
+}
+
+.quantity {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 0%;
+}
+
+
+.midnight {
+    background-image: url("/resources/Vectorrr.png");
+    background-repeat: no-repeat;
+    display: flex;
+    border-radius: 16px;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+    padding: 110px;
+    max-width: 1320px;
+    max-height: 600px;
+    margin: 0px auto;
+    width: 82.5%;
+    height: 8.18%;
+}
+
+.midnight-banner {
+    justify-content: space-between;
+    margin: 14px 0px 62px 0px;
+
+}
+
+.join-button {
+    padding: 0px 47px 0px;
+
+}
+
+.join-1 {
+    color: #FFF;
+    background-color: transparent;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: 0;
+}
+
+.welcome {
+    color: #FFF;
+    font-family: 'Merriweather';
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7px;
+    margin: 0px 26.5px 0px 5px;
+}
+
+.greetings-0 {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: 'Inter';
+    font-size: 18.2px;
+    font-weight: 400;
+    line-height: 33px;
+    margin: 0px 26.5px 0px 5px;
+}
+
+.join-now {
+    color: #FFF;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: 0px;
+    margin: 0px 0px 0px 40px;
+    text-decoration: none;
+}
+
+.group-70 {
+    width: 319.83px;
+    height: 464.662px;
+    margin: 0px 19px 0px 30px;
+}
+
+.box {
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    background-repeat: no-repeat;
+    padding: 75px 0px;
+    font-family: 'Inter';
+    border-radius: 16px;
+    background-position: center;
+    align-items: center;
+    margin: 0px 120px;
+    margin: 0px auto;
+    max-width: 1320px;
+    max-height: 482px;
+    width: 82.5%;
+    height: 6.57%;
+
+}
+
+.announcement {
+    justify-content: center;
+    text-align: center;
+}
+
+.title {
+    color: #F00;
+    font-size: 32px;
+}
+
+.description {
+    color: #070211;
+    font-size: 32px;
+}
+
+.title.description {
+    text-align: justify;
+    font-family: 'Inter';
+    line-height: 56px 175%;
+}
+
+.join {
+    border-radius: 8px;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 16px 32px;
+    background-color: red;
+    border: 0px;
+}
+
+.poster-parent {
+
+    display: flex;
+    padding: 75px;
+    font-family: 'Inter';
+
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 120px;
+    max-width: 1320px;
+    margin: 0px auto;
+}
+
+.poster.eclipse-1.year-2024 {
+    margin: 0px 120px;
+    margin: 0px auto;
+    padding-top: 0px;
+    padding-right: 400px;
+    padding-bottom: 0px;
+}
+
+.poster {
+    justify-content: space-between;
+    padding-top: 0px;
+    padding-right: 10px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+
+}
+
+.new-offer {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'inter';
+}
+
+.timing {
+    color: #070211;
+    font-family: 'Merriweather';
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.greetings {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.eclipse-1 {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    width: 453px;
+    height: 453px;
+    border-radius: 270px;
+    border: 15px solid #F00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.eclipse-1 img {
+    height: 364.884px;
+    width: 364.884px;
+}
+
+.year {
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.greetings-1 {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.group-96 {
+    flex-shrink: 0;
+}
+
+.year-2024 {
+    padding-top: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border-bottom: 0px;
+
+}
+
+.details {
+    color: #070211;
+    font-family: 'Inter';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+}
+
+.days {
+    color: #F00;
+    text-align: center;
+    font-family: 'Merriweather';
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 87%;
+}
+
+.sales {
+    color: #070211;
+}
+
+.days.sales {
+    font-family: 'Merriweather';
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.greetings-3 {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+}
+
+.holidays-offer {
+    padding: 110px;
+    text-align: center;
+    font-family: 'Inter';
+    border-radius: 16px;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 120px;
+    max-width: 1320px;
+    margin: 0px auto;
+}
+
+.management {
+    align-items: center;
+    justify-content: center;
+
+}
+
+.gifts {
+    color: #F00;
+    font-family: 'Inter';
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.portfolio {
+    color: #070211;
+    font-family: 'Merriweather';
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 60%;
+    text-transform: capitalize;
+}
+
+.greetings-4 {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.gift-and-portfolio {
+
+    max-width: 1320px;
+    border-radius: 16px;
+    align-items: center;
+    margin: 0px 120;
+    margin: 0px auto;
+    padding-top: 10px;
+}
+
+.product-view {
+    display: flex;
+    max-width: 1320px;
+    border-radius: 16px;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 120px;
+    margin: 0px auto;
+}
+
+.rectangle-3 {
+    margin: 8px 8px 0px 8px;
+}
+
+.rectangle-4 {
+    margin: 8px 8px 0px 8px;
+}
+
+.rectangle-5 {
+    margin: 8px 0px 0px 8px;
+}
+
+.rectangle-6 {
+    margin: 12px 8px 0px 8px;
+}
+
+.rectangle-7 {
+    margin: 12px 8px 0px 8px;
+}
+
+.rectangle-8 {
+    margin: 12px 0px 0px 8px;
+}
+
+.contact {
+    max-height: 600px;
+    text-align: center;
+    font-family: 'Inter';
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin: 0px 120px;
+    max-width: 1320px;
+    margin: 0px auto;
+    padding: 50px 0px;
+}
+
+.group-61 {
+    margin-top: 20px;
+}
+
+main {
+    padding: 110px;
+}
+
+.subscribe {
+    color: #070211;
+    text-align: center;
+    font-family: 'Merriweather';
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.greetings-5 {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.email {
+    width: 420px;
+    height: 53px;
+    flex-shrink: 0;
+    border-radius: 50px 0px 0px 50px;
+    background: #FFF;
+    border: 0;
+    color: rgba(7, 2, 17, 0.30);
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.subscribe-1 {
+    color: #FFF;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    border: 0;
+    width: 230px;
+    height: 55px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+}
+
+.email.subscribe-1 {
+    display: inline;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+footer {
+    max-height: 609px;
+    padding: 75px;
+    color: #FFF;
+    font-family: 'Inter';
+    font-size: 24px;
+    font-weight: 500;
+    background-repeat: none;
+    background-color: #070211;
+    text-align: center;
+    font-family: 'Inter';
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0px 120px;
+    margin: 0px auto;
+    max-width: 1320px;
+    width: 100%;
+    height: 8.17%;
+
+}
+
+
+.address-phone {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1320px;
+    margin: 0px 120px;
+    margin: 0px auto;
+    padding-right: 150px;
+}
+
+.social {
+
+    margin: 100px auto;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.15);
+    border-width: 1px;
+    border-right: 0px;
+    border-left: 0px;
+    max-width: 1320px;
+    justify-content: space-between;
+    column-gap: 24px;
+    ;
+    align-items: center;
+    padding: 80px 0px 80px 0px;
+}
+
+.facebook {
+    padding-right: 24px;
+    width: 64px;
+    height: 64px;
+}
+
+.instagram {
+    padding-right: 24px;
+    width: 64px;
+    height: 64px;
+}
+
+.twitter {
+    padding-right: 24px;
+    width: 64px;
+    height: 64px;
+}
+
+.linkdin {
+    width: 64px;
+    height: 64px;
+}
+
+.copyright-unsubscribe {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 120px;
+    max-width: 1600px;
+    margin: 0px auto;
+}
+
+
+.unsubscribe {
+    text-decoration: none;
+    color: #FFF;
+}
