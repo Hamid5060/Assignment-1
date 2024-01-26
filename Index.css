@@ -1,11 +1,13 @@
-.header {
+/*This is header's background and element section */
+header {
+    height: 600px;
     background-image: url("/resources/Banner\ Image.png");
     border-radius: 16px;
     background-repeat: no-repeat;
     font-family: 'Merriweather';
     text-align: center;
     color: #FFF;
-    padding: 110px;
+    padding: 50px;
     border-radius: 16px;
     background-position: center;
     align-items: center;
@@ -14,44 +16,41 @@
     max-height: 600px;
     margin: 0px 120px;
     margin: 0px auto;
-    width: 82.5%;
-    height: 8.18%;
-
 }
 
-.hi {
+.new-year-banner {
     justify-items: center;
-    padding-top: 40px;
+    padding-top: 190px;
 
 }
 
-.wishes-speech {
+.happy-new-year {
     font-size: 32px;
     font-weight: 400;
     line-height: 0%;
 }
 
-.arrengment {
+.new-year-arrangement {
     font-size: 72px;
     font-weight: 900;
     line-height: 14%;
 }
 
-.deals {
+.new-year-deals {
     margin-bottom: 10px;
     margin-left: auto;
     text-align: center;
     font-family: 'Inter';
 }
 
-.offer {
+.holidays-deals {
     color: #F00;
     font-size: 88px;
     font-weight: 700;
     line-height: 93px;
 }
 
-.complement {
+.our-offer{
     color: #F00;
     font-size: 24px;
     font-weight: 500;
@@ -64,9 +63,14 @@
     font-weight: 700;
     line-height: 0%;
 }
+.new-year-photo{
+    justify-items: center;
+    padding-top: 48px;
+    padding-bottom: 70px;
+}
 
-
-.midnight {
+/* This is midnight party's banner and elements section */
+.midnight-party {
     background-image: url("/resources/Vectorrr.png");
     background-repeat: no-repeat;
     display: flex;
@@ -74,37 +78,26 @@
     background-position: center;
     align-items: center;
     justify-content: center;
-    padding: 110px;
+    padding: 120px;
     max-width: 1320px;
     max-height: 600px;
+    margin-top: 0px 120px;
     margin: 0px auto;
     width: 82.5%;
     height: 8.18%;
+    height: 600px;
 }
-
 .midnight-banner {
+    
+    margin: 61px 0px 61px 10px;
+
+}
+.midnight-banner.group-70{
+    display: flex;
     justify-content: space-between;
-    margin: 14px 0px 62px 0px;
-
 }
 
-.join-button {
-    padding: 0px 47px 0px;
-
-}
-
-.join-1 {
-    color: #FFF;
-    background-color: transparent;
-    text-align: center;
-    font-family: 'Inter';
-    font-size: 20px;
-    font-weight: 700;
-    text-transform: uppercase;
-    border: 0;
-}
-
-.welcome {
+.welcome-to-midnight-party {
     color: #FFF;
     font-family: 'Merriweather';
     font-size: 64px;
@@ -114,7 +107,7 @@
     margin: 0px 26.5px 0px 5px;
 }
 
-.greetings-0 {
+.greetings-1 {
     color: rgba(255, 255, 255, 0.80);
     font-family: 'Inter';
     font-size: 18.2px;
@@ -122,9 +115,12 @@
     line-height: 33px;
     margin: 0px 26.5px 0px 5px;
 }
+.join-button-1 {
+    padding: 48px 47px 0px;
+}
 
-.join-now {
-    color: #FFF;
+.join-now-1 {
+    background-color: transparent;
     text-align: center;
     font-family: 'Inter';
     font-size: 20px;
@@ -132,20 +128,22 @@
     text-transform: uppercase;
     border: 0px;
     margin: 0px 0px 0px 40px;
-    text-decoration: none;
 }
-
+.join-now-text-1{
+    color: #FFF;
+}
 .group-70 {
     width: 319.83px;
     height: 464.662px;
-    margin: 0px 19px 0px 30px;
+    margin: 0px 19px 0px 22px;
 }
 
-.box {
+.event-announcement {
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
     background-repeat: no-repeat;
     padding: 75px 0px;
     font-family: 'Inter';
+    color: #FFF;
     border-radius: 16px;
     background-position: center;
     align-items: center;
@@ -155,14 +153,10 @@
     max-height: 482px;
     width: 82.5%;
     height: 6.57%;
-
-}
-
-.announcement {
-    justify-content: center;
+    line-height: 40px;
     text-align: center;
-}
 
+}
 .title {
     color: #F00;
     font-size: 32px;
@@ -179,9 +173,8 @@
     line-height: 56px 175%;
 }
 
-.join {
+.join-now-2{
     border-radius: 8px;
-    color: #FFF;
     text-align: center;
     font-family: 'Inter';
     font-size: 20px;
@@ -191,13 +184,15 @@
     background-color: red;
     border: 0px;
 }
+.join-now-text-2{
+    color: #FFF;
+}
 
-.poster-parent {
+.new-best-offer{
 
     display: flex;
-    padding: 75px;
+    padding: 205px;
     font-family: 'Inter';
-
     align-items: center;
     justify-content: space-between;
     margin: 0px 120px;
@@ -205,16 +200,14 @@
     margin: 0px auto;
 }
 
-.poster.eclipse-1.year-2024 {
-    margin: 0px 120px;
-    margin: 0px auto;
+.poster.eclipse-1.year-2024.new-best-offer {
     padding-top: 0px;
     padding-right: 400px;
     padding-bottom: 0px;
+
 }
 
 .poster {
-    justify-content: space-between;
     padding-top: 0px;
     padding-right: 10px;
     padding-left: 0px;
@@ -237,7 +230,7 @@
     text-transform: capitalize;
 }
 
-.greetings {
+.greetings-2{
     color: rgba(7, 2, 17, 0.60);
     font-family: 'Inter';
     font-size: 20px;
@@ -246,21 +239,22 @@
 
 .eclipse-1 {
     margin: 0px;
-    padding: 0px;
+    padding: 12px;
     box-sizing: border-box;
-    width: 453px;
-    height: 453px;
-    border-radius: 270px;
-    border: 15px solid #F00;
+    width: 553px;
+    height: 553px;
+    border-radius: 2070px;
+    border: 25px solid #F00;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 
-.eclipse-1 img {
-    height: 364.884px;
-    width: 364.884px;
+.eclipse-1 > img {
+    height: 450.884px;
+    width: 450.884px;
+
 }
 
 .year {
@@ -269,7 +263,7 @@
     font-weight: 700;
 }
 
-.greetings-1 {
+.greetings-3 {
     color: rgba(7, 2, 17, 0.60);
     font-family: 'Inter';
     font-size: 20px;
@@ -320,7 +314,7 @@
     line-height: normal;
 }
 
-.greetings-3 {
+.greetings-4 {
     color: rgba(7, 2, 17, 0.60);
     text-align: center;
     font-family: 'Inter';
@@ -364,7 +358,7 @@
     text-transform: capitalize;
 }
 
-.greetings-4 {
+.greetings-5 {
     color: rgba(7, 2, 17, 0.60);
     font-family: 'Inter';
     font-size: 20px;
@@ -382,8 +376,8 @@
     padding-top: 10px;
 }
 
-.product-view {
-    display: flex;
+.gift-images {
+    display: inline-block;
     max-width: 1320px;
     border-radius: 16px;
     align-items: center;
@@ -416,7 +410,7 @@
     margin: 12px 0px 0px 8px;
 }
 
-.contact {
+.subscribe-to-connect-us {
     max-height: 600px;
     text-align: center;
     font-family: 'Inter';
@@ -436,7 +430,7 @@ main {
     padding: 110px;
 }
 
-.subscribe {
+.subscribe-newsletter{
     color: #070211;
     text-align: center;
     font-family: 'Merriweather';
@@ -445,7 +439,7 @@ main {
     text-transform: capitalize;
 }
 
-.greetings-5 {
+.greetings-6 {
     color: rgba(7, 2, 17, 0.60);
     text-align: center;
     font-family: 'Inter';
@@ -468,7 +462,7 @@ main {
     font-weight: 400;
 }
 
-.subscribe-1 {
+.subscribe{
     color: #FFF;
     text-align: center;
     font-family: 'Inter';
@@ -482,7 +476,7 @@ main {
     background: #F00;
 }
 
-.email.subscribe-1 {
+.email.subscribe{
     display: inline;
     justify-content: center;
     align-items: center;
@@ -523,7 +517,7 @@ footer {
     padding-right: 150px;
 }
 
-.social {
+.social-sites-to-connect-us{
 
     margin: 100px auto;
     border-style: solid;
